@@ -3,4 +3,4 @@
 
 - **Summary** is displayed in the table bellow
 - - - 
-![MACHINE LEARNING - ONLINE VS OFFLINE](https://user-images.githubusercontent.com/103325802/165170416-6cbfcb5d-54d0-433f-9ea2-29a44c7dbccb.png)
+![MACHINE LEARNING - ONLINE VS OFFLINE](Image/ONLINE%20vs%20OFFLINE%20ML.png)
