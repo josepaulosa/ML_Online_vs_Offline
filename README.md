@@ -1,4 +1,4 @@
-# ML_Online_vs_Offline
+# ML: Online vs Offline
 - **Key differences** between **Online** and **Offline** **Machine Learning**
 
 - **Summary** is displayed in the table bellow
